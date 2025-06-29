@@ -1,0 +1,46 @@
+2025-05-30 15:21:46,345 - graphgen - INFO - Load KV full_docs with 0 data
+2025-05-30 15:21:46,345 - graphgen - INFO - Load KV text_chunks with 0 data
+2025-05-30 15:21:46,345 - graphgen - INFO - Load KV wiki with 0 data
+2025-05-30 15:21:46,345 - graphgen - INFO - Load KV rephrase with 0 data
+2025-05-30 15:21:46,345 - graphgen - INFO - Load KV qa-1748589705 with 0 data
+2025-05-30 15:21:46,445 - graphgen - INFO - Graph graph cleared.
+2025-05-30 15:21:46,445 - graphgen - INFO - All caches are cleared
+2025-05-30 15:21:46,445 - graphgen - INFO - [New Docs] inserting 1 docs
+2025-05-30 15:21:46,447 - graphgen - INFO - [New Chunks] inserting 1 chunks
+2025-05-30 15:21:46,447 - graphgen - INFO - [Entity and Relation Extraction]...
+2025-05-30 15:23:36,749 - graphgen - INFO - First result: ("entity"<|>"云南省农业科学院粮食作物研究所"<|>"organization"<|>"云南省农业科学院粮食作物研究所是中国的一个科研机构，负责育成早熟品种云粳26号。")##
+("entity"<|>"2005年"<|>"date"<|>"2005年是云粳26号育成的年份。")##
+("entity"<|>"云粳26号"<|>"work"<|>"云粳26号是一种早熟的水稻品种，由云南省农业科学院粮食作物研究所育成。")##
+("entity"<|>"颖尖无色、无芒"<|>"nature"<|>"颖尖无色、无芒是云粳26号的外观特点之一，描述了其颖尖和芒的特征。")##
+("entity"<|>"谷壳黄色"<|>"nature"<|>"谷壳黄色是云粳26号的外观特点之一，描述了其谷壳的颜色。")##
+("entity"<|>"落粒性适中"<|>"nature"<|>"落粒性适中是云粳26号的外观特点之一，描述了其落粒的特性。")##
+("entity"<|>"米粒大"<|>"nature"<|>"米粒大是云粳26号的外观特点之一，描述了其米粒的大小。")##
+("entity"<|>"有香味"<|>"nature"<|>"有香味是云粳26号的外观特点之一，描述了其米的香味。")##
+("entity"<|>"食味品质好"<|>"nature"<|>"食味品质好是云粳26号的外观特点之一，描述了其米的口感。")##
+("entity"<|>"高抗稻瘟病"<|>"nature"<|>"高抗稻瘟病是云粳26号的特性之一，描述了其对稻瘟病的抗性。")##
+("entity"<|>"云南中海拔 1 500∼1 800 m 稻区"<|>"location"<|>"云南中海拔 1 500∼1 800 m 稻区是云粳26号适宜种植的区域。")##
+("entity"<|>"农业部"<|>"organization"<|>"农业部是中国的一个政府部门，负责将云粳26号列为西南稻区农业推广主导品种。")##
+("entity"<|>"西南稻区"<|>"location"<|>"西南稻区是中国的一个稻米种植区域，云粳26号被列为该区域的农业推广主导品种。")##
+("entity"<|>"2012年"<|>"date"<|>"2012年是云粳26号被列为西南稻区农业推广主导品种的年份。")##
+("relationship"<|>"云南省农业科学院粮食作物研究所"<|>"云粳26号"<|>"云南省农业科学院粮食作物研究所育成了云粳26号，该品种具有多种优良特性。")##
+("relationship"<|>"2005年"<|>"云粳26号"<|>"云粳26号在2005年育成，该年份是其育成的时间点。")##
+("relationship"<|>"云粳26号"<|>"颖尖无色、无芒"<|>"颖尖无色、无芒是云粳26号的外观特点之一，描述了其颖尖和芒的特征。")##
+("relationship"<|>"云粳26号"<|>"谷壳黄色"<|>"谷壳黄色是云粳26号的外观特点之一，描述了其谷壳的颜色。")##
+("relationship"<|>"云粳26号"<|>"落粒性适中"<|>"落粒性适中是云粳26号的外观特点之一，描述了其落粒的特性。")##
+("relationship"<|>"云粳26号"<|>"米粒大"<|>"米粒大是云粳26号的外观特点之一，描述了其米粒的大小。")##
+("relationship"<|>"云粳26号"<|>"有香味"<|>"有香味是云粳26号的外观特点之一，描述了其米的香味。")##
+("relationship"<|>"云粳26号"<|>"食味品质好"<|>"食味品质好是云粳26号的外观特点之一，描述了其米的口感。")##
+("relationship"<|>"云粳26号"<|>"高抗稻瘟病"<|>"高抗稻瘟病是云粳26号的特性之一，描述了其对稻瘟病的抗性。")##
+("relationship"<|>"云南中海拔 1 500∼1 800 m 稻区"<|>"云粳26号"<|>"云粳26号适宜在云南中海拔 1 500∼1 800 m 稻区种植，该区域是其适宜种植的区域。")##
+("relationship"<|>"农业部"<|>"云粳26号"<|>"农业部将云粳26号列为西南稻区农业推广主导品种，该品种因此得到了推广。")##
+("relationship"<|>"西南稻区"<|>"云粳26号"<|>"云粳26号被列为西南稻区农业推广主导品种，该品种因此在该区域得到了推广。")##
+("relationship"<|>"2012年"<|>"云粳26号"<|>"云粳26号在2012年被列为西南稻区农业推广主导品种，该年份是其被列为推广品种的时间点。")##
+("content_keywords"<|>"云粳26号, 早熟品种, 外观特点, 高抗稻瘟病, 适宜种植区域, 农业推广")<|COMPLETE|>
+2025-05-30 15:23:44,272 - graphgen - INFO - Inserting entities into storage...
+2025-05-30 15:23:44,274 - graphgen - INFO - Inserting relationships into storage...
+2025-05-30 15:23:44,275 - graphgen - INFO - [Wiki Search] is disabled
+2025-05-30 15:23:44,275 - graphgen - INFO - Writing graph with 14 nodes, 13 edges
+2025-05-30 15:23:44,276 - graphgen - INFO - Writing graph with 14 nodes, 13 edges
+2025-05-30 15:23:44,285 - graphgen - INFO - Writing graph with 14 nodes, 13 edges
+2025-05-30 15:23:44,287 - graphgen - INFO - Using max tokens strategy
+2025-05-30 15:23:44,289 - graphgen - INFO - Processing batches: 6

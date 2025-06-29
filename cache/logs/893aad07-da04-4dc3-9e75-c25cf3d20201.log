@@ -1,0 +1,20 @@
+2025-05-30 15:20:30,982 - graphgen - INFO - Load KV full_docs with 0 data
+2025-05-30 15:20:30,982 - graphgen - INFO - Load KV text_chunks with 0 data
+2025-05-30 15:20:30,982 - graphgen - INFO - Load KV wiki with 0 data
+2025-05-30 15:20:30,983 - graphgen - INFO - Load KV rephrase with 0 data
+2025-05-30 15:20:30,983 - graphgen - INFO - Load KV qa-1748589630 with 0 data
+2025-05-30 15:20:31,080 - graphgen - INFO - Graph graph cleared.
+2025-05-30 15:20:31,080 - graphgen - INFO - All caches are cleared
+2025-05-30 15:20:31,080 - graphgen - INFO - [New Docs] inserting 1 docs
+2025-05-30 15:20:31,082 - graphgen - INFO - [New Chunks] inserting 1 chunks
+2025-05-30 15:20:31,082 - graphgen - INFO - [Entity and Relation Extraction]...
+2025-05-30 15:20:35,685 - graphgen - INFO - First result: ("entity"<|>"测试"<|>"keyword"<|>"测试是文本中的一个关键词，用于描述或说明内容。")##
+("content_keywords"<|>"测试")<|COMPLETE|>
+2025-05-30 15:20:37,970 - graphgen - INFO - Inserting entities into storage...
+2025-05-30 15:20:37,972 - graphgen - INFO - Inserting relationships into storage...
+2025-05-30 15:20:37,972 - graphgen - INFO - [Wiki Search] is disabled
+2025-05-30 15:20:37,972 - graphgen - INFO - Writing graph with 1 nodes, 0 edges
+2025-05-30 15:20:37,973 - graphgen - INFO - Writing graph with 1 nodes, 0 edges
+2025-05-30 15:20:37,975 - graphgen - INFO - Writing graph with 1 nodes, 0 edges
+2025-05-30 15:20:37,982 - graphgen - INFO - Using max tokens strategy
+2025-05-30 15:20:37,983 - graphgen - INFO - Processing batches: 0
